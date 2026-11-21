@@ -75,5 +75,4 @@ Ask anything about Web Design and development, Software, AI Automation, AI learn
 
 Open to opportunities.
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
--> hello.oscarrios@gmail.com
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
