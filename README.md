@@ -4,7 +4,7 @@
 
 </div>
 
-## Hello, World. I'm Oscar. ![Profile views](https://komarev.com/ghpvc/?username=OscarRios-dev&label=Profile%20views&color=24292f&style=flat-square)
+## Hello, World. I'm Oscar. ![Profile views](https://komarev.com/ghpvc/?username=OscarRios-dev&label=Profile%20views&color=0e75b6&style=flat-square)
 
 I develop software that solves concrete problems and makes everyday tasks faster. I also build personal projects with the goal of releasing them publicly, so they can be useful to other people.
 
@@ -38,22 +38,22 @@ I develop software that solves concrete problems and makes everyday tasks faster
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-24292f?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-24292f?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-24292f?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-24292f?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-24292f?style=for-the-badge&logo=css3&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-24292f?style=for-the-badge&logo=csharp&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-24292f?style=for-the-badge&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/Java-24292f?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-24292f?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-B7410E?style=for-the-badge&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 **Tools and platforms**
 
-![GitHub](https://img.shields.io/badge/GitHub-24292f?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-24292f?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-24292f?style=for-the-badge&logo=vercel&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-24292f?style=for-the-badge&logo=obsidian&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
 
 ---
 
@@ -61,7 +61,11 @@ I develop software that solves concrete problems and makes everyday tasks faster
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OscarRios-dev&bg_color=0d1117&color=9ca3af&line=6b7280&point=e5e7eb&area=true&area_color=374151&hide_border=true&hide_title=true" width="100%" alt="GitHub activity graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OscarRios-dev/OscarRios-dev/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OscarRios-dev/OscarRios-dev/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/OscarRios-dev/OscarRios-dev/output/github-snake-dark.svg" width="100%" />
+</picture>
 
 </div>
 
@@ -71,4 +75,4 @@ I develop software that solves concrete problems and makes everyday tasks faster
 
 Open to opportunities.
 
-[![Email](https://img.shields.io/badge/Email-[your%20email]-24292f?style=for-the-badge)](mailto:)
+[![Email](https://img.shields.io/badge/Email-[your%20email]-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
