@@ -1,7 +1,6 @@
 <!-- ============ BANNER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=220&section=header&text=Oscar%20Rios&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Motion%20Graphics%20%C2%B7%20Software%20%26%20Tools&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Oscar Rios banner" />
 
 <!-- ============ TYPING ANIMATION ============ -->
 <a href="https://github.com/OscarRios-dev">
