@@ -1,84 +1,53 @@
-<!-- ============ BANNER ============ -->
 <div align="center">
 
-
-<!-- ============ TYPING ANIMATION ============ -->
-<a href="https://github.com/OscarRios-dev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Motion+graphics+designer;I+build+tools+that+solve+real+problems;I+learn+fast+and+iterate;Detail+is+not+optional" alt="Typing animation" />
-</a>
-
-<br/>
-
-![Status](https://img.shields.io/badge/Status-Open%20to%20work-8B5CF6?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-Code%20Development-6D28D9?style=for-the-badge)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1f2937&height=170&section=header&text=Oscar%20Rios&fontSize=48&fontColor=e5e7eb&fontAlignY=42&desc=Code%20Developer&descSize=18&descColor=9ca3af&descAlignY=65" width="100%" alt="Oscar Rios" />
 
 </div>
 
-<!-- ============ DIVIDER ============ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,24&height=3" width="100%" alt="" />
+---
 
-## 👋 About me
+## About
 
-I turn ideas into polished visuals and practical tools. I care about the final result, but I care just as much about how I get there.
+I develop software that solves concrete problems and makes everyday tasks faster. I also build personal projects with the goal of releasing them publicly, so they can be useful to other people.
 
-<!-- ============ HOW I WORK (CARDS) ============ -->
-## ⚙️ How I work
+## Focus
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔁 Learn fast, build by iterating</h3>
-      I ship a first version early, test it and improve it until it's right. Progress first, quality as the goal.
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎨 Visual detail matters</h3>
-      Timing, spacing, color and motion are never afterthoughts. If it looks off, I fix it before it goes out.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 AI as a tool, not a shortcut</h3>
-      AI speeds up my workflow, but I review, adjust and take ownership of every result.
-    </td>
-    <td width="50%" valign="top">
-      <h3>⏱️ On time, clear communication</h3>
-      Clear scope, honest updates and no surprises. You always know where things stand.
-    </td>
-  </tr>
-</table>
+- **Problem-driven tools.** Software and utilities designed to remove friction and save time.
+- **Personal projects.** Independent work with potential for public release.
+- **Tools for others.** Software built to be used and relied on by people other than me.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,24&height=3" width="100%" alt="" />
+## Working approach
 
-## 🛠️ Tools I use
+| | |
+|---|---|
+| **Iterative development** | I release an early version, test it, and refine it until it works well. |
+| **Attention to detail** | Clarity, usability and polish are part of the work, not an extra step. |
+| **Responsible use of AI** | AI accelerates my workflow. I review, adjust and take ownership of every result. |
+| **Reliable delivery** | Defined scope, honest updates and deadlines that are met. |
 
-<div align="center">
+## Technologies
 
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
-![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-<!-- Add more badges here, only for tools you really use. Example:
-![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
--->
+**Languages**
 
-</div>
+![Python](https://img.shields.io/badge/Python-24292f?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-24292f?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-24292f?style=flat-square)
+![HTML](https://img.shields.io/badge/HTML-24292f?style=flat-square)
+![CSS](https://img.shields.io/badge/CSS-24292f?style=flat-square)
+![C#](https://img.shields.io/badge/C%23-24292f?style=flat-square)
+![Rust](https://img.shields.io/badge/Rust-24292f?style=flat-square)
+![Java](https://img.shields.io/badge/Java-24292f?style=flat-square)
+![C](https://img.shields.io/badge/C-24292f?style=flat-square)
 
-## 🎯 What I do
+**Tools and platforms**
 
-- 🎬 **Motion graphics**: visual content for social media and brands
-- 🧰 **Software & tools**: scripts and utilities built to solve real problems
+![GitHub](https://img.shields.io/badge/GitHub-24292f?style=flat-square)
+![VS Code](https://img.shields.io/badge/VS%20Code-24292f?style=flat-square)
+![Vercel](https://img.shields.io/badge/Vercel-24292f?style=flat-square)
+![Obsidian](https://img.shields.io/badge/Obsidian-24292f?style=flat-square)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,24&height=3" width="100%" alt="" />
+## Contact
 
-## 📬 Let's work together
+Open to opportunities.
 
-<div align="center">
-
-![Email](https://img.shields.io/badge/Email-your.email@example.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)
-![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20soon-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white)
-
-*Open to collaborations and freelance work.*
-
-</div>
-
-<!-- ============ FOOTER ============ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=120&section=footer" width="100%" alt="" />
+[![Email](https://img.shields.io/badge/Email-your.email%40example.com-24292f?style=flat-square)](mailto:your.email@example.com)
