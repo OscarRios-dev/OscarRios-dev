@@ -10,7 +10,7 @@
 <br/>
 
 ![Status](https://img.shields.io/badge/Status-Open%20to%20work-8B5CF6?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-Motion%20Graphics-6D28D9?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Code%20Development-6D28D9?style=for-the-badge)
 
 </div>
 
