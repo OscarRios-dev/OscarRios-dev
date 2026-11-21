@@ -1,10 +1,7 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1f2937&height=170&section=header&text=Oscar%20Rios&fontSize=48&fontColor=e5e7eb&fontAlignY=42&desc=Code%20Developer&descSize=18&descColor=9ca3af&descAlignY=65" width="100%" alt="Oscar Rios" />
 
 </div>
 
-## Hello, World. I'm Oscar. ![Profile views](https://komarev.com/ghpvc/?username=OscarRios-dev&label=Profile%20views&color=0e75b6&style=flat-square)
+##👋🏼 Hello, World. I'm Oscar. ![Profile views](https://komarev.com/ghpvc/?username=OscarRios-dev&label=Profile%20views&color=0e75b6&style=flat-square)
 
 I develop software that solves concrete problems and makes everyday tasks faster. I also build personal projects with the goal of releasing them publicly, so they can be useful to other people.
 
