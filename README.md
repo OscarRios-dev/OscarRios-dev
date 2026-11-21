@@ -75,4 +75,4 @@ I develop software that solves concrete problems and makes everyday tasks faster
 
 Open to opportunities.
 
-[![Email](https://img.shields.io/badge/Email-[your%20email]-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+[![Email](https://img.shields.io/badge/Email-hello.oscarrios@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
