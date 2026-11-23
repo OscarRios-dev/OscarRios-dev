@@ -153,9 +153,9 @@ Open to freelance projects and to working with people who have a dream.
 
 <!-- Replace the placeholders below with your real links before merging. -->
 
-[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_X_HANDLE)
-[![Discord](https://img.shields.io/badge/Discord-Say%20hi-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello.oscarrios@gmail.com)
+[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/oscarr1os)
+[![Discord](https://img.shields.io/badge/Discord-Say%20hi-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/)
 
 <div align="center">
 
