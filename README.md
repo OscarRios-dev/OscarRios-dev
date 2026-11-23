@@ -12,7 +12,7 @@
 
 ---
 
-## 👨🏻‍💻 About me
+## Hello, World 🖖! I'm Oscar
 
 I build software and AI-powered tools designed to **save time and remove friction**. I started as a freelance web designer, delivered strong results, and now I'm going deeper into **software development, AI engineering and cybersecurity**.
 
@@ -24,34 +24,34 @@ I'm self-taught: I learn by building, breaking things and retaking them. If some
 
 ---
 
-## 🧭 Focus
+##  Focus
 
 | | |
 |---|---|
-| 🛠️ **Problem-driven tools** | Software and utilities designed to remove friction and save time. |
-| 🚀 **Personal projects** | Independent work, with some of it going public over time. |
-| 🤝 **Tools for others** | Software built to be used and relied on by people other than me. |
+| **Problem-driven tools** | Software and utilities designed to remove friction and save time. |
+| **Personal projects** | Independent work, with some of it going public over time. |
+| **Tools for others** | Software built to be used and relied on by people other than me. |
 
-## ⚙️ Working approach
+##  Working approach
 
 | | |
 |---|---|
-| 🔁 **Iterative development** | I ship an early version, test it, and refine it until it works well. |
-| 🎯 **Attention to detail** | Clarity, usability and polish are part of the work, not an extra step. |
-| 🤖 **Responsible use of AI** | AI accelerates my workflow. I review, adjust and own every result. |
-| ✅ **Reliable delivery** | Defined scope, honest updates and deadlines that are met. |
+| **Iterative development** | I ship an early version, test it, and refine it until it works well. |
+| **Attention to detail** | Clarity, usability and polish are part of the work, not an extra step. |
+| **Responsible use of AI** | AI accelerates my workflow. I review, adjust and own every result. |
+| **Reliable delivery** | Defined scope, honest updates and deadlines that are met. |
 
 ---
 
-## 💼 Work with me
+## Work with me!
 
 I'm available for freelance projects. If you have an idea and want it built properly, let's talk.
 
 | Service | What you get |
 |---|---|
-| 🌐 **Web design & development** | Fast, clean, responsive websites and landing pages that look good and convert. |
-| 🤖 **AI automation** | Workflows and tools that take repetitive work off your plate using AI. |
-| 🧩 **Custom software & tools** | Utilities and apps tailored to a specific problem in your workflow. |
+| **Web design & development** | Fast, clean, responsive websites and landing pages that look good and convert. |
+| **AI automation** | Workflows and tools that take repetitive work off your plate using AI. |
+| **Custom software & tools** | Utilities and apps tailored to a specific problem in your workflow. |
 
 **How it works:** `Idea` → `Defined scope` → `Early version` → `Feedback & refinement` → `Delivery`
 
